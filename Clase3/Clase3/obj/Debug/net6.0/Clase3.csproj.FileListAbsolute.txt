@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\bin\Debug\net6.0\Clase3.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\bin\Debug\net6.0\Clase3.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\bin\Debug\net6.0\Clase3.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\bin\Debug\net6.0\Clase3.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\bin\Debug\net6.0\Clase3.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\Clase3.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\Clase3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\Clase3.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\Clase3.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\Clase3.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\Clase3.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\refint\Clase3.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\Clase3.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\Clase3.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Clase3\obj\Debug\net6.0\ref\Clase3.dll

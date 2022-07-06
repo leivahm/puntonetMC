@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\bin\Debug\net6.0\Calculo.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\bin\Debug\net6.0\Calculo.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\bin\Debug\net6.0\Calculo.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\bin\Debug\net6.0\Calculo.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\bin\Debug\net6.0\Calculo.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\Calculo.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\Calculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\Calculo.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\Calculo.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\refint\Calculo.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\Calculo.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\Calculo.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase3\Calculo\Calculo\obj\Debug\net6.0\ref\Calculo.dll

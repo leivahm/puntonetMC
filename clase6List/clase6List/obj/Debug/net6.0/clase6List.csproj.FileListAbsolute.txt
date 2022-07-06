@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\bin\Debug\net6.0\clase6List.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\bin\Debug\net6.0\clase6List.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\bin\Debug\net6.0\clase6List.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\bin\Debug\net6.0\clase6List.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\bin\Debug\net6.0\clase6List.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\clase6List.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\clase6List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\clase6List.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\clase6List.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\clase6List.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\clase6List.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\refint\clase6List.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\clase6List.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\clase6List.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\clase6List\clase6List\obj\Debug\net6.0\ref\clase6List.dll

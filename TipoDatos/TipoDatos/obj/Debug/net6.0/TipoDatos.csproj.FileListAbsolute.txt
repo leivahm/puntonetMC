@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\refint\TipoDatos.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatos\TipoDatos\obj\Debug\net6.0\ref\TipoDatos.dll

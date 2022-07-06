@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\bin\Debug\net6.0\TipoDatosVSC.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\bin\Debug\net6.0\TipoDatosVSC.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\bin\Debug\net6.0\TipoDatosVSC.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\bin\Debug\net6.0\TipoDatosVSC.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\bin\Debug\net6.0\TipoDatosVSC.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\TipoDatosVSC.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\TipoDatosVSC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\TipoDatosVSC.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\TipoDatosVSC.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\TipoDatosVSC.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\TipoDatosVSC.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\refint\TipoDatosVSC.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\TipoDatosVSC.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\TipoDatosVSC.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\TipoDatosVSC\obj\Debug\net6.0\ref\TipoDatosVSC.dll

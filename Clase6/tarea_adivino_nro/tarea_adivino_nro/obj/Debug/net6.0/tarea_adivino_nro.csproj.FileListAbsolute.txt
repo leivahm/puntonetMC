@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\tarea_adivino_nro.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\tarea_adivino_nro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\tarea_adivino_nro.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\tarea_adivino_nro.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\tarea_adivino_nro.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\bin\Debug\net6.0\tarea_adivino_nro.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\bin\Debug\net6.0\tarea_adivino_nro.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\bin\Debug\net6.0\tarea_adivino_nro.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\bin\Debug\net6.0\tarea_adivino_nro.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\bin\Debug\net6.0\tarea_adivino_nro.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\tarea_adivino_nro.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\refint\tarea_adivino_nro.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\tarea_adivino_nro.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\tarea_adivino_nro.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase6\tarea_adivino_nro\tarea_adivino_nro\obj\Debug\net6.0\ref\tarea_adivino_nro.dll

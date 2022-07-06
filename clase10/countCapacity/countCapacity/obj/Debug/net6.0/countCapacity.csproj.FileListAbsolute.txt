@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\bin\Debug\net6.0\countCapacity.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\bin\Debug\net6.0\countCapacity.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\bin\Debug\net6.0\countCapacity.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\bin\Debug\net6.0\countCapacity.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\bin\Debug\net6.0\countCapacity.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\countCapacity.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\countCapacity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\countCapacity.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\countCapacity.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\countCapacity.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\countCapacity.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\refint\countCapacity.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\countCapacity.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\countCapacity.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\countCapacity\countCapacity\obj\Debug\net6.0\ref\countCapacity.dll

@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\refint\Ejercicio1.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\Ejercicio1\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll

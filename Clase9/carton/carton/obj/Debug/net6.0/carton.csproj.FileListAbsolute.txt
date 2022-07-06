@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\carton.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\carton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\carton.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\carton.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\carton.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\bin\Debug\net6.0\carton.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\bin\Debug\net6.0\carton.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\bin\Debug\net6.0\carton.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\bin\Debug\net6.0\carton.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\bin\Debug\net6.0\carton.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\carton.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\refint\carton.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\carton.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\carton.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase9\carton\carton\obj\Debug\net6.0\ref\carton.dll

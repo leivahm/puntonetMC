@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\bin\Debug\net6.0\volteretas.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\bin\Debug\net6.0\volteretas.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\bin\Debug\net6.0\volteretas.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\bin\Debug\net6.0\volteretas.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\bin\Debug\net6.0\volteretas.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\volteretas.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\volteretas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\volteretas.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\volteretas.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\volteretas.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\volteretas.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\refint\volteretas.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\volteretas.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\volteretas.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase5\volteretas\volteretas\obj\Debug\net6.0\ref\volteretas.dll

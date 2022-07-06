@@ -1,0 +1,15 @@
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\bin\Debug\net6.0\ejercicioClase7.exe
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\bin\Debug\net6.0\ejercicioClase7.deps.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\bin\Debug\net6.0\ejercicioClase7.runtimeconfig.json
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\bin\Debug\net6.0\ejercicioClase7.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\bin\Debug\net6.0\ejercicioClase7.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\ejercicioClase7.csproj.AssemblyReference.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\ejercicioClase7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\ejercicioClase7.AssemblyInfoInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\ejercicioClase7.AssemblyInfo.cs
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\ejercicioClase7.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\ejercicioClase7.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\refint\ejercicioClase7.dll
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\ejercicioClase7.pdb
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\ejercicioClase7.genruntimeconfig.cache
+D:\Documentos\Academy\dotNet\CursoNet2022\Clase7\ejercicioClase7\ejercicioClase7\obj\Debug\net6.0\ref\ejercicioClase7.dll
