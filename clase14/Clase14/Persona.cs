@@ -17,5 +17,10 @@ namespace Clase14
 
         public string nombre { get; set; }
         public string apellido { get; set; }
+
+        public static void saludar()
+        {
+            Console.WriteLine("Hola");
+        }
     }
 }

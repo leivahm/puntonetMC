@@ -10,5 +10,10 @@ namespace Herencia.Colegio
     {
         public string Curso { get; set; }
         public string Division { get; set; }
+
+        public string recuperarClave()
+        { //este método devuelve el contenido "protegido" del método Clave en la clase Persona
+            return Clave();
+        }
     }
 }

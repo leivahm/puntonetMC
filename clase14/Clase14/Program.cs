@@ -25,3 +25,4 @@ foreach (var item in personas)
 }
 //En este ejemplo se trata de demostrar que se carga la memoria con los datos de la lista
 
+Persona.saludar();
