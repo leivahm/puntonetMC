@@ -1,0 +1,15 @@
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.exe
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\Interfaces\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll

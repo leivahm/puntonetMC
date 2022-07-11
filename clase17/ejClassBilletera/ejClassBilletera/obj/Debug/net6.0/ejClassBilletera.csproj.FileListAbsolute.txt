@@ -1,0 +1,15 @@
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\bin\Debug\net6.0\ejClassBilletera.exe
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\bin\Debug\net6.0\ejClassBilletera.deps.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\bin\Debug\net6.0\ejClassBilletera.runtimeconfig.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\bin\Debug\net6.0\ejClassBilletera.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\bin\Debug\net6.0\ejClassBilletera.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\ejClassBilletera.csproj.AssemblyReference.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\ejClassBilletera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\ejClassBilletera.AssemblyInfoInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\ejClassBilletera.AssemblyInfo.cs
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\ejClassBilletera.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\ejClassBilletera.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\refint\ejClassBilletera.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\ejClassBilletera.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\ejClassBilletera.genruntimeconfig.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase17\ejClassBilletera\ejClassBilletera\obj\Debug\net6.0\ref\ejClassBilletera.dll

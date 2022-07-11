@@ -1,0 +1,15 @@
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\bin\Debug\net6.0\Billetera.exe
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\bin\Debug\net6.0\Billetera.deps.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\bin\Debug\net6.0\Billetera.runtimeconfig.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\bin\Debug\net6.0\Billetera.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\bin\Debug\net6.0\Billetera.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\Billetera.csproj.AssemblyReference.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\Billetera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\Billetera.AssemblyInfoInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\Billetera.AssemblyInfo.cs
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\Billetera.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\Billetera.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\refint\Billetera.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\Billetera.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\Billetera.genruntimeconfig.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase13\Billetera\obj\Debug\net6.0\ref\Billetera.dll
