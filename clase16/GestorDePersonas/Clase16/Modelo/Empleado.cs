@@ -20,6 +20,7 @@ namespace Clase16.Modelo
         }
 
         public int SalarioNeto { get => ObtenerSalarioNeto(); }
+
         private int ObtenerSalarioNeto()
         {
             var salarioNeto = _salarioBruto * 0.85;
