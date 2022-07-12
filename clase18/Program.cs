@@ -39,3 +39,53 @@
 //     public int IBU {get; set;}   
 //     public decimal Graduacion {get; set;}
 // }
+
+// :::::::::::: Aquí empieza la codificación usando las clases y las interfaces de Models ::::::::::::
+
+using clase18.Models;
+var alumno = new Alumno()
+{
+    Nombre = "Joaquín",
+    Apellido = "Mateos",
+    DNI = "12312312",
+    Legajo = "1234"
+};
+
+var docente = new Docente()
+{
+    Nombre = "Eze",
+    Apellido = "Etchecoin",
+    DNI = "10223118",
+    Horas = 12
+};
+
+// Console.WriteLine("Alumno: " + alumno.Nombre + " " + alumno.Apellido + "\nDNI: " + alumno.DNI);
+// Console.WriteLine("\nDocente: " + docente.Nombre + " " + docente.Apellido + "\nDNI: " + docente.DNI);
+
+Console.WriteLine(ObtenerDatos(docente));
+Console.WriteLine(ObtenerDatos(alumno));
+
+var listado = new List<IPersona>();
+listado.Add(alumno);
+listado.Add(docente);
+
+var nuevoListado = ObtenerPersonasByNombre(listado,"Eze");
+
+Console.WriteLine(nuevoListado.Count);
+
+List<IPersona> ObtenerPersonasByNombre(List<IPersona> personas, string nombre){
+    var nuevaLista = new List<IPersona>();
+    foreach(var p in personas){
+        if(p.Nombre==nombre){
+            nuevaLista.Add(p);
+        }
+    }
+    return nuevaLista;
+}
+
+
+string ObtenerDatos(IPersona persona){
+    var datos = persona.Nombre + " " + persona.Apellido;
+
+    return datos;
+}
