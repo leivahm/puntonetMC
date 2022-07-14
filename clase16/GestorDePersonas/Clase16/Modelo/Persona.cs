@@ -26,7 +26,7 @@ namespace Clase16.Modelo
                 _fechaNacimiento = Convert.ToDateTime(value);
             } 
         }
-        public string NumeroDocumento {
+        public string NumeroDeDocumento {
             get
             {
                 return _numeroDeDocumento.ToString();
