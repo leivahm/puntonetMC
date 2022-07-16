@@ -25,7 +25,7 @@ namespace Clase16.Repositorio
         public void Insertar(Persona persona)
         {
             var numeroDocumento = persona.NumeroDeDocumento;
-            var personaExiste = Personas.ContainsKey(numeroDocumento); //Este método devuelve un bool que indica si la persona ya existe
+            var personaExiste = Personas.ContainsKey(numeroDocumento); //Este método devuelve un bool que indica si la persona ya existe o no
             if (!personaExiste)
             {
                 Personas[numeroDocumento] = persona;
@@ -75,15 +75,22 @@ namespace Clase16.Repositorio
 
         public void Actualizar(string numeroDocumento, string nombre, string apellido)
         {
-            foreach(var personaActual in Personas)
+            var personaAActualizar = Personas[numeroDocumento];
+            if (personaAActualizar != null)
             {
-                if (personaActual.NumeroDocumento == numeroDocumento)
-                {
-                    personaActual.Nombre = nombre;
-                    personaActual.Apellido = apellido;
-
-                }
+                personaAActualizar.Nombre = nombre;
+                personaAActualizar.Apellido = apellido;
             }
+        }
+
+        public bool Existe(string numeroDeDocumento)
+        {
+            return Personas.ContainsKey(numeroDeDocumento); //Retorna un ContainsKey que devuelve un boolean
+        }
+
+        public bool Existe(Persona persona) //Aquí estoy sobre cargando el método "Existe"
+        { // Aquí Existe se llama a sí mismo pero usa otro parámetro 
+            return Existe(persona.NumeroDeDocumento);
         }
     }
 }
