@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Clase16.Modelo; //agregado por mí
-using Clase16.Repositorio; //agregado por mí
 
 namespace Clase16.Frontend
 {
@@ -127,10 +125,6 @@ namespace Clase16.Frontend
 
             _repositorio.Insertar(personaAAgregar);
             Console.WriteLine("Persona Agregada correctamente.");
-        }
-
-        private class RepositorioDePersonas
-        {
         }
     }
 }
