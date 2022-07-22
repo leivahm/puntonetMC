@@ -38,6 +38,30 @@ var auto1 = new //no declaramos la clase en su espacio pero igual la toma como c
     Anho = "1969"
 }; // Y se puede usar auto1 como una clase
 
+
 Console.WriteLine(auto1.Marca);
 Console.WriteLine(auto1.Modelo);
 Console.WriteLine(auto1.Anho);
+
+var pr2 = new
+{
+    pr.Nombre, //Aquí establezco la propiedad de otra variable
+    pr.Apellido, // y asigno el nombre y el valor para el objeto de tipo anónimo "pr2"
+    TipoProveedor = "Limpieza",
+    Edad = 23,
+    FechaAlta = new DateTime(2022,6,30)
+};
+
+Console.WriteLine("\n" + pr2.Nombre);
+Console.WriteLine(pr2.Apellido);
+Console.WriteLine(pr2.Edad);
+Console.WriteLine(pr2.FechaAlta);
+
+Console.WriteLine(pr2.TipoProveedor);
+
+
+//EXPRESIONES LAMBDA
+//Ejemplo 1
+int[] numeros = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
+int numerosImpares= numeros.Count(n => n % 2 == 1);
+
