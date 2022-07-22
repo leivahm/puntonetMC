@@ -64,4 +64,29 @@ Console.WriteLine(pr2.TipoProveedor);
 //Ejemplo 1
 int[] numeros = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
 int numerosImpares= numeros.Count(n => n % 2 == 1);
+Console.WriteLine("\n" + numerosImpares);
 
+//Ejemplo 2
+List<Persona> misClientes = new List<Persona>();
+misClientes.Add(new Persona { Apellido = "Perez", Nombre = "Juan" });
+misClientes.Add(new Persona { Apellido = "De Tal", Nombre = "Fulano" });
+misClientes.Add(new Persona { Apellido = "López", Nombre = "Juan" });
+misClientes.Add(new Persona { Apellido = "Libal", Nombre = "Juan" });
+
+//IEnumerable<Persona> juanes = misClientes.Where(cadaCliente => cadaCliente.Nombre == "Juan");
+
+var juanes = misClientes.Where(cadaCliente => cadaCliente.Nombre == "Juan");
+Console.WriteLine("");
+
+foreach (Persona persona in juanes)
+{
+    Console.WriteLine(persona.Apellido + " " + persona.Nombre);
+}
+
+var c = 0;
+foreach (var item in juanes)
+{
+    c++;
+}
+
+Console.WriteLine("\nHay " + c + " Juanes");
