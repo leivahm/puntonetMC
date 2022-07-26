@@ -81,7 +81,7 @@ Console.WriteLine("");
 foreach (Persona persona in juanes)
 {
     Console.WriteLine(persona.Apellido + " " + persona.Nombre);
-}
+} // lista todos los juanes ubicando primero el apellido
 
 var c = 0;
 foreach (var item in juanes)
