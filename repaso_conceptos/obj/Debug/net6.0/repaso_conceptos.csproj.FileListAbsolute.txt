@@ -1,0 +1,15 @@
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\bin\Debug\net6.0\repaso_conceptos.exe
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\bin\Debug\net6.0\repaso_conceptos.deps.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\bin\Debug\net6.0\repaso_conceptos.runtimeconfig.json
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\bin\Debug\net6.0\repaso_conceptos.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\bin\Debug\net6.0\repaso_conceptos.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\repaso_conceptos.csproj.AssemblyReference.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\repaso_conceptos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\repaso_conceptos.AssemblyInfoInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\repaso_conceptos.AssemblyInfo.cs
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\repaso_conceptos.csproj.CoreCompileInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\repaso_conceptos.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\refint\repaso_conceptos.dll
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\repaso_conceptos.pdb
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\repaso_conceptos.genruntimeconfig.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\repaso_conceptos\obj\Debug\net6.0\ref\repaso_conceptos.dll
