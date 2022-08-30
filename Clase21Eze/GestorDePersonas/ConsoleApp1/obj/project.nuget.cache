@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QobsyKuWpdNrid7dUK5jzCXR5EfSnBi20yu0O7rds+Fti7SQi8ystF65u7kIEBFrZuzU5B3+CoHrWKHqvuXImw==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\Clase21Eze\\GestorDePersonas\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

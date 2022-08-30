@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\clase18\\clase18.csproj": {}
+    "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\Clase21Eze\\GestorDePersonas\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\clase18\\clase18.csproj": {
+    "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\Clase21Eze\\GestorDePersonas\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\clase18\\clase18.csproj",
-        "projectName": "clase18",
-        "projectPath": "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\clase18\\clase18.csproj",
+        "projectUniqueName": "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\Clase21Eze\\GestorDePersonas\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\Clase21Eze\\GestorDePersonas\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\clase18\\obj\\",
+        "outputPath": "D:\\Documentos\\Academy\\DOT_Net\\CursoNet2022\\Clase21Eze\\GestorDePersonas\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
