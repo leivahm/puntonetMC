@@ -1,0 +1,5 @@
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase21Mio\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase21Mio\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase21Mio\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase21Mio\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Documentos\Academy\DOT_Net\CursoNet2022\clase21Mio\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
